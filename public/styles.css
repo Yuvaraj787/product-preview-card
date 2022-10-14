@@ -41,16 +41,16 @@ div > .img {
 
 @media screen and (max-width: 400px) {
 .box {
-	/*display: inline;*/
+	display: inline;
 }
 div > .img {
-	width: 7.625rem;
-    height: 10.125rem;
+	width: 5.625rem;
+    height: 7.125rem;
     border-radius: 2% 0% 0% 2%;
 }
 .remaining {
-	width: 7.625rem;	
-	height: 10.125rem;
+	width: 5.625rem;	
+	height: 7.125rem;
 	border-radius: 2% 0% 0% 2%;
 	padding-top: 0.313rem;
 	/*padding-left: 0.938rem;*/
