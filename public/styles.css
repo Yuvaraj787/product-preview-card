@@ -41,7 +41,7 @@ div > .img {
 
 @media screen and (max-width: 400px) {
 .box {
-	display: inline;
+	/*display: inline;*/
 }
 div > .img {
 	width: 7.625rem;
